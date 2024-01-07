@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Ahmed Ali</h1>
 <h3 align="center">Front-End Developer, Trying to be A Full-Stack.</h3>
-<img src="https://iconduck.com/illustrations/106905/web-developer"/>
+
+<img align="right" alt="Coding" width="400" src="https://iconduck.com/illustrations/106905/web-developer">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/ahmed-ali-se98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahmed-ali-se98" height="30" width="40" /></a>
