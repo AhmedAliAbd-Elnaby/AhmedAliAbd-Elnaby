@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahmed Ali</h1>
 <h3 align="center">Front-End Developer, Trying to be A Full-Stack.</h3>
 
-<img align="right" alt="Coding" width="400" src=""https://iconduck.com/illustrations/106905/web-developer"">
+<img align="right" alt="Coding" width="400" src="https://iconduck.com/illustrations/106905/web-developer">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
